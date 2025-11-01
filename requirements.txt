@@ -1,3 +1,9 @@
 python-dotenv
 pandas
 numpy
+pymongo
+requests
+certifi
+
+
+# -e .
